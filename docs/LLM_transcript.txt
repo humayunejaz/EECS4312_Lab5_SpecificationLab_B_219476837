@@ -1,10 +1,10 @@
-## Student Name:
-## Student ID: 
+## Student Name: Humayun Ejaz
+## Student ID: 219476837
 
-Prompt 1: "Copy paste your question"
-LLM Response 1: "Copy paste LLMs response"
+USER: help me implement is_allocation_feasible
+ASSISTANT: <response>
 
---------------------------------------------------
-Prompt 2: "Copy paste your question"
-LLM Response 2: "Copy paste LLMs response"
---------------------------------------------------
+USER: why are tests failing
+ASSISTANT: <response>
+
+...
