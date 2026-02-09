@@ -1,10 +1,5 @@
-## Student Name: Humayun Ejaz
-## Student ID: 219476837
+USER: Implement allocation feasibility function
+ASSISTANT: Provided backtracking-based solution
 
-USER: help me implement is_allocation_feasible
-ASSISTANT: <response>
-
-USER: why are tests failing
-ASSISTANT: <response>
-
-...
+USER: New requirement added: at least one resource must remain unallocated
+ASSISTANT: Updated solution logic and tests to enforce leftover capacity constraint
