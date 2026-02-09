@@ -1,6 +1,6 @@
 ## TODO:
-## Student Name:
-## Student ID: 
+## Student Name:humayun
+## Student ID: 219476837
 
 # Is Resource Allocation Feasible Lab Repository
 
